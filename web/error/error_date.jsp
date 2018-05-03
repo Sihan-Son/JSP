@@ -8,8 +8,6 @@
     String today = myDay.toString();
     out.println(today);
 %>
-안녕ㅁ
-
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
