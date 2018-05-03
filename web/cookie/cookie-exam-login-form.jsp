@@ -24,7 +24,7 @@
         </tr>
     </table>
 
-    <table align=" center" width="300" cellspacing="0" cellpadding="5">
+    <table align="center" width="300" cellpadding="5" cellspacing="0" >
         <tr>
             <td align="center">
                 <input type="submit" value="LOGIN">&nbsp;&nbsp;
